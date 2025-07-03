@@ -1,0 +1,23 @@
+Python is a high-level programming language created by Guido van Rossum and first released in 1991. Python 3.0 was released in 2008 and became the standard version by 2020.
+
+Machine learning gained popularity in the 1990s but became mainstream after 2010 with the availability of big data and powerful computing resources.
+
+Deep learning breakthrough happened in 2012 when AlexNet won the ImageNet competition. The transformer architecture was introduced in 2017 with the paper "Attention Is All You Need".
+
+ChromaDB was founded in 2022 as an open-source vector database. It gained significant adoption in 2023 with the rise of AI applications and embeddings.
+
+Retrieval-Augmented Generation was popularized by Facebook AI Research in 2020. ChatGPT was released in November 2022, making RAG systems more accessible.
+
+Natural Language Processing saw major advances in 2018 with BERT, and in 2019 with GPT-2. GPT-3 was released in 2020 with 175 billion parameters.
+
+Computer vision achieved human-level performance in image classification in 2015. OpenCV was first released in 2000 and remains popular today.
+
+Data science became a recognized field around 2012. Python's pandas library was first released in 2011 and revolutionized data analysis.
+
+Web development evolved significantly with HTML5 in 2014, React in 2013, and Vue.js in 2014. Node.js was introduced in 2009.
+
+Cloud computing started with Amazon Web Services in 2006. Microsoft Azure launched in 2010, and Google Cloud Platform became available in 2011.
+
+Artificial Intelligence winter periods occurred in 1974-1980 and 1987-1993. The current AI boom started around 2010 and accelerated dramatically in 2022.
+
+TensorFlow was released by Google in 2015. PyTorch was released by Facebook in 2016. Both became the dominant deep learning frameworks by 2020.
